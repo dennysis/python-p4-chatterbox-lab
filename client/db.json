@@ -7,12 +7,6 @@
       "created_at": "2021-01-07T09:15:27"
     },
     {
-      "id": 2,
-      "body": "Hi brother",
-      "username": "Duane",
-      "created_at": "2021-01-07T09:16:37"
-    },
-    {
       "id": 3,
       "body": "let's get this chat app working",
       "username": "Liza",
@@ -20,7 +14,7 @@
     },
     {
       "id": 4,
-      "body": "ngl, this looks like a lot 😬",
+      "body": "ngl, this looks like a lot 😬 me",
       "username": "Duane",
       "created_at": "2021-01-07T09:20:10"
     },
@@ -29,6 +23,16 @@
       "body": "You got this! 💪",
       "username": "Liza",
       "created_at": "2021-01-07T09:21:11"
+    },
+    {
+      "username": "Duane",
+      "body": "",
+      "id": 6
+    },
+    {
+      "username": "Duane",
+      "body": "hi",
+      "id": 7
     }
   ]
 }
